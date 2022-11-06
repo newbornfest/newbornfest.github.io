@@ -461,8 +461,6 @@ Phone: (+372) 5559 9546
 
 Phone: (+372) 5691 7907
 
-
-
 ### NewbornFest 2023 Standard Access
 
 [Buy Now 328 €](https://buy.stripe.com/3cseX501V0lP6nm8ww) 
@@ -474,8 +472,6 @@ Phone: (+372) 5691 7907
 ### NewbornFest 2023 Premium Access
 
 [Buy Now 620 €](https://buy.stripe.com/7sI3en9Cv3y15ji6oq)
-
-
 
 ### Payment in four 25% installments:
 
