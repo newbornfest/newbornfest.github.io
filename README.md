@@ -474,3 +474,21 @@ Phone: (+372) 5691 7907
 ### NewbornFest 2023 Premium Access
 
 [Buy Now 620 €](https://buy.stripe.com/7sI3en9Cv3y15ji6oq)
+
+
+
+### Payment in four 25% installments:
+
+|Date due|[Standard 25%](https://buy.stripe.com/28o7uDeWPd8B132147)|[Pro 25%](https://buy.stripe.com/aEU9CL2a39WpfXW3cg)|[Premium 25%](https://buy.stripe.com/00g7uDcOH1pT132005)|
+|-------------|--|--|---|
+|Today|82|95|155|
+|10.01.2023|82|95|155|
+|10.02.2023|82|95|155|
+|10.03.2023|82|95|155|
+
+### Payment in two 50% installments:
+
+| Date due   | [Standard 50%](https://buy.stripe.com/eVa6qz9CvfgJcLK006) | [Pro 50%](https://buy.stripe.com/28o4ir8yrgkNfXW6ov) | [Premium 50%](https://buy.stripe.com/6oEg19cOHgkNaDC3ck) |
+| ---------- | --------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------- |
+| Today      | 164                                                       | 190                                                  | 310                                                      |
+| 10.02.2023 | 164                                                       | 190                                                  | 310                                                      |
