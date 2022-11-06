@@ -251,21 +251,21 @@ Viktoria is frequently referred to as the "perfect baby" photographer. Her work 
 
 08:30 - 08:45 - transfer from hotel to photo shoot location (for Julia Adrianov's workshop participants)
 
-08:45 - 11:15 - workshops in the hotel (Axela Frank, Arina Ageev)
+08:45 - 11:15 - workshops in the hotel (Axela Frank, Daniela Ursache)
 
 08:45 - 11:15 - workshop by Julia Adrianov
 
 10:00 - 15:00 - festival fair
 
-11:10 - 11:20 - transfer from photo shoot location to hotel (for Julia Adrianov's workshop participants)
+11:10 - 11:20 - transfer from photo shoot location to the hotel (for Julia Adrianov's workshop participants)
 
 11:20 - 11:30 - transfer from hotel to photo shoot location (for Aleksandra Helk's workshop participants)
 
 11:30 - 14:00 - workshop by Aleksandra Helk
 
-11:30 - 14:00 - workshops in the hotel (Daniela Ursache, Michael Stief)
+11:30 - 14:00 - workshops in the hotel (Ariana Ageev, Michael Stief)
 
-14:00 - 14:15 - transfer from photo shoot location to hotel (for Aleksandra Helk's workshop participants)
+14:00 - 14:15 - transfer from photo shoot location to the hotel (for Aleksandra Helk's workshop participants)
 
 14:00 - 14:30 - coffee break
 
@@ -435,7 +435,7 @@ The Newborn Festival tickets are non-refundable. If you are unable to attend the
 - access to the festival fair
 - a certificate of participation
 
-### 380 € Extended access
+### 380 € Pro access
 
 - access to all lectures
 - over 15 hours of lectures
@@ -445,27 +445,12 @@ The Newborn Festival tickets are non-refundable. If you are unable to attend the
 - a certificate of participation
 - grand finale banquet with all festival speakers and participants 
 
-### 780 € Pro access
+### 620 € Premium access
 
 - access to all lectures
 - over 15 hours of lectures
 - more than 7 hours of performance (speakers work with the models on stage in real time) 
 - standard twin room with a colleague of the same gender at the Tallink Spa & Conference Hotel (with two separate beds)
-- breakfast
-- dinner
-- coffee breaks
-- use of the hotel's pool and saunas (available on all days of stay)
-- access to the festival fair
-- a certificate of participation
-- grand finale banquet with all festival speakers and participants 
-
-### 852 € Premium access
-
-- access to all lectures
-- 1-3 rows of seats at all lectures of the festival
-- over 15 hours of lectures
-- more than 7 hours of performance (speakers work with the models on stage in real time) 
-- standard single room  at the Tallink Spa & Conference Hotel  (one bed)
 - breakfast
 - dinner
 - coffee breaks
@@ -485,3 +470,17 @@ Phone: (+372) 5559 9546
 [Anastassia Ushkova](https://www.instagram.com/anastassiaushkova/)
 
 Phone: (+372) 5691 7907
+
+
+
+### NewbornFest 2023 Standard Access
+
+[Buy Now 328 €](https://buy.stripe.com/3cseX501V0lP6nm8ww) 
+
+### NewbornFest 2023 Pro Access 
+
+[Buy Now 380 €](https://buy.stripe.com/eVa5mveWPc4xh20cMN)
+
+### NewbornFest 2023 Premium Access
+
+[Buy Now 620 €](https://buy.stripe.com/7sI3en9Cv3y15ji6oq)
