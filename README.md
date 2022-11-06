@@ -6,17 +6,7 @@ Newborn, Babies and Maternity Photography Festival
 
 [Tallink Spa & Conference Hotel, Tallinn, Estonia](https://www.youtube.com/watch?v=RZ1c2jK5tfM)
 
-## Why?
-
-- Get inspired and benefit from a variety of photography strategies to help your business grow.
-
-- Succeed faster, together!
-
-- Grow as a photographer and learn from the well-known keynote speakers in the industry.
-
-- Create new connections and grow your photography business.
-
-- Grow as a Photographer with Like-Minded Professionals.
+**Get inspired and benefit from a variety of photography strategies to help your business grow.**
 
 ## About
 
