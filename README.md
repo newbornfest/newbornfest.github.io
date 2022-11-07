@@ -103,7 +103,7 @@ Interesting facts:
 * Her first newborn shoot at home was for a glossy magazine, the heroes were local celebrities.
 * She has photographed hundreds of weddings and created unique love stories. 
 
-### 6. Julia Adrianov
+### 6. Julia Andrianov
 
 Family and Wedding Photographer
 
@@ -113,7 +113,7 @@ https://www.facebook.com/julia.andrianov.photography/
 
 https://www.instagram.com/julia_familyphoto/
 
-Julia Adrianov is an Estonian family and wedding photographer. Julia shoots at people's homes and believes that any house, at any time of year, is suitable for photography. She sees photography as an important part of a family's history and memory, which she must interpret as a photographer. Julia sincerely believes that photographs, like a time machine, can transport us back to a specific location, moment and emotion. 
+Julia Andrianov is an Estonian family and wedding photographer. Julia shoots at people's homes and believes that any house, at any time of year, is suitable for photography. She sees photography as an important part of a family's history and memory, which she must interpret as a photographer. Julia sincerely believes that photographs, like a time machine, can transport us back to a specific location, moment and emotion. 
 
 ### 7. Margarita Kashuba
 
@@ -231,7 +231,7 @@ Viktoria is frequently referred to as the "perfect baby" photographer. Her work 
 
 18:15 - 19:35 - Jelena Rudi, Estonia - Lecture "Plot twists in lifestyle photography"
 
-19:35 - 20:55 - Julia Adrianov, Estonia - Lecture (The topic of the lecture will be announced later)
+19:35 - 20:55 - Julia Andrianov, Estonia - Lecture (The topic of the lecture will be announced later)
 
 21:00 - 23:00 - dinner for hotel guests
 
@@ -239,15 +239,15 @@ Viktoria is frequently referred to as the "perfect baby" photographer. Her work 
 
 08:00 - 10:00 - breakfast for hotel guests
 
-08:30 - 08:45 - transfer from hotel to photo shoot location (for Julia Adrianov's workshop participants)
+08:30 - 08:45 - transfer from hotel to photo shoot location (for Julia Andrianov's workshop participants)
 
 08:45 - 11:15 - workshops in the hotel (Axela Frank, Daniela Ursache)
 
-08:45 - 11:15 - workshop by Julia Adrianov
+08:45 - 11:15 - workshop by Julia Andrianov
 
 10:00 - 15:00 - festival fair
 
-11:10 - 11:20 - transfer from photo shoot location to the hotel (for Julia Adrianov's workshop participants)
+11:10 - 11:20 - transfer from photo shoot location to the hotel (for Julia Andrianov's workshop participants)
 
 11:20 - 11:30 - transfer from hotel to photo shoot location (for Aleksandra Helk's workshop participants)
 
