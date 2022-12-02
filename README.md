@@ -453,10 +453,6 @@ The Newborn Festival tickets are non-refundable. If you are unable to attend the
 
 Email: support@newbornfest.com
 
-[Viktoria Iljin](https://www.lastefoto.ee/en/)
-
-Phone: (+372) 5559 9546
-
 [Anastassia Ushkova](https://www.instagram.com/anastassiaushkova/)
 
 Phone: (+372) 5691 7907
