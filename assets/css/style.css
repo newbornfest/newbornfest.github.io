@@ -216,6 +216,41 @@ h6 {
   }
 }
 
+
+
+/*--------------------------------------------------------------
+# Buy Tickets for Workshops
+--------------------------------------------------------------*/
+.buy-tickets-workshop {
+    color: #fff;
+    background: #f82249;
+    padding: 7px 22px;
+    margin: 0 0 0 15px;
+    border-radius: 50px;
+    border: 2px solid #f82249;
+    transition: all ease-in-out 0.3s;
+    font-weight: 500;
+    line-height: 1;
+    font-size: 13px;
+    white-space: nowrap;
+  }
+  
+  .buy-tickets-workshop:hover {
+    background: #051931;
+    color: #fff;
+  }
+  
+  .buy-tickets-workshop:focus {
+    color: #fff;
+  }
+  
+  @media (max-width: 992px) {
+    .buy-tickets-workshop {
+      margin: 0 15px 0 0;
+    }
+  }
+
+
 /*--------------------------------------------------------------
 # Navigation Menu
 --------------------------------------------------------------*/
