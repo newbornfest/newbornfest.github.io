@@ -240,6 +240,41 @@
         <div class="hero-container" data-aos="zoom-in" data-aos-delay="100">
             <h1 class="mb-4 pb-0">The Annual<br><span>Newborn, Babies and Maternity</span><br>Photography Festival</h1>
             <p class="mb-4 pb-0">12-13 May 2023 @ Radisson Blu Hotel Olümpia, Tallinn, Estonia</p>
+
+            <p style="font: 14px 'Abel', sans-serif; margin: 14px 0 0;">Time left to the event:</p>
+            <p id="timeleft" style="font: small-caps bold 60px/72px 'Abel', sans-serif; color: #f82249;"></p>
+
+            <script>
+                // Set the date we're counting down to
+                var countDownDate = new Date("May 12, 2023 12:00:00").getTime();
+
+                // Update the count down every 1 second
+                var x = setInterval(function () {
+
+                    // Get today's date and time
+                    var now = new Date().getTime();
+
+                    // Find the distance between now and the count down date
+                    var distance = countDownDate - now;
+
+                    // Time calculations for days, hours, minutes and seconds
+                    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+                    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+                    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+                    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+                    // Display the result in the element with id="demo"
+                    document.getElementById("timeleft").innerHTML = days + "d " + hours + "h "
+                        + minutes + "m " + seconds + "s ";
+
+                    // If the count down is finished, write some text
+                    if (distance < 0) {
+                        clearInterval(x);
+                        document.getElementById("timeleft").innerHTML = "EXPIRED";
+                    }
+                }, 1000);
+            </script>
+
             <!-- a href="https://www.youtube.com/watch?v=SACb_EsXYgs" class="glightbox play-btn mb-4"></a -->
             <a href="#about" class="about-btn scrollto">About The Event</a>
         </div>
