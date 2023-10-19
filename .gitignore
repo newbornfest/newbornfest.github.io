@@ -1,1 +1,4 @@
 *.mp4
+temp_*.html
+backup_*.html
+nofollow.py

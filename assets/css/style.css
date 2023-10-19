@@ -719,15 +719,17 @@ h6 {
   }
 }
 
+
+
 #about:before {
-  content: "";
-  background: rgba(13, 20, 41, 0.8);
-  position: absolute;
-  bottom: 0;
-  top: 0;
-  left: 0;
-  right: 0;
-}
+    content: "";
+    background: rgba(13, 20, 41, 0.9); /* Adjusted the alpha value to 0.9 */
+    position: absolute;
+    bottom: 0;
+    top: 0;
+    left: 0;
+    right: 0;
+  }
 
 #about h2 {
   font-size: 36px;
@@ -745,7 +747,7 @@ h6 {
 }
 
 #about p {
-  font-size: 14px;
+  font-size: 18px;
   margin-bottom: 20px;
   color: #fff;
 }
